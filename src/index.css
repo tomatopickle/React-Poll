@@ -1,0 +1,12 @@
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+a {
+  text-decoration: none;
+}
+#questionsEditor .MuiCard-root {
+  margin-top: 15px;
+}
